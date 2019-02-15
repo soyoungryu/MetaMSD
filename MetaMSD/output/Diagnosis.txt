@@ -1,0 +1,3 @@
+Meta-Analysis Evaluation
+Integration-driven Discovery Rate (IDR)	90.83 %
+Integration-driven Revision Rate (IRR)	21.43 %

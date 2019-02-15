@@ -1,0 +1,6 @@
+# of detected proteins
+Meta Analysis	120
+Single Analysis 1	3
+Single Analysis 2	11
+Intersection among Single Analyses	0
+Union among Single Analyses	14
