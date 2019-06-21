@@ -343,7 +343,7 @@ legend_labels = c("Meta Analysis")
 for (i in 1:N.dataset){
 	legend_labels[i+1] = paste0("Single Analysis (Set ",i,")")
 }
-legend("topleft", legend_labels, lty=c(1,1,1),col=c(1,2,3), lwd=c(2,2,2), cex=1.3)
+legend("topleft", legend_labels, lty=c(1),col=c(1,2:(N.dataset+1)), lwd=c(2), cex=1.3)
 
 #	This prints "null device\n 1". Seems to work when removed.
 #dev.off()
